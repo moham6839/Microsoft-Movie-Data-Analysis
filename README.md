@@ -32,7 +32,7 @@ To pinpoint the factors that should be considered when producing films, includin
 
 ## Highest-Grossing Film Studios:
 
-
+<img src="Domestic Gross Studio Bar Graph.png" width="700">
 
 * As the graphs above illustrate, films produced by BV studios generated the most amount of revenue, followed by Sony, and Universal. Domestic and international gross revenue showed little to no difference.
 
