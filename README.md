@@ -25,6 +25,7 @@ To pinpoint the factors that should be considered when producing films, includin
 
 ## Which film genres generated the highest revenue gross?
 
+<img width="625" alt="GenreRevenue" src="https://user-images.githubusercontent.com/77416319/122107514-26629100-cde9-11eb-8446-8fd15759dcb4.png">
 
 
 * Based on the graph above, Action and Adventure films achieved the highest amount of revenue, followed by Comedy.
