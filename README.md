@@ -43,6 +43,10 @@ To pinpoint the factors that should be considered when producing films, includin
 
 ## What amount of financing in production budgets produced the highest amount of earnings?
 
+<img width="381" alt="ProbudgetDomGross" src="https://user-images.githubusercontent.com/77416319/122107872-9113cc80-cde9-11eb-9a0f-e2aa764d774d.png">
+
+<img width="404" alt="ProbudgetWWGross" src="https://user-images.githubusercontent.com/77416319/122107885-95d88080-cde9-11eb-8303-004c0c0b4cf7.png">
+
 
 * There was a strong correlation with production budgets and revenue earnings. There was little to no difference in domestic and international gross revenue.
 
@@ -50,7 +54,12 @@ To pinpoint the factors that should be considered when producing films, includin
 
 ## What month of the year generated the most revenue?
 
-* As shown in the graph above, the month of May performed the best when analyzing the highest amount of revenue earned. Not far behind were June and July. This may be the result of people being outside more enjoying the warmer weather and also wanting to be in an air-conditioned theater while watching a movie.
+<img width="678" alt="Domestic Gross Per Month" src="https://user-images.githubusercontent.com/77416319/122107840-82c5b080-cde9-11eb-9c2b-0624530eadc0.png">
+
+<img width="638" alt="Worldwide Gross Per Month" src="https://user-images.githubusercontent.com/77416319/122107847-86593780-cde9-11eb-8690-6e86e7117eb7.png">
+
+
+* As shown in the graphs above, the month of May performed the best when analyzing the highest amount of revenue earned. Not far behind were June and July. This may be the result of people being outside more enjoying the warmer weather and also wanting to be in an air-conditioned theater while watching a movie.
 
 
 ## Limitations:
